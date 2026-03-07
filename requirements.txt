@@ -1,0 +1,9 @@
+scikit-learn
+xgboost
+ucimlrepo
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+nbconvert
